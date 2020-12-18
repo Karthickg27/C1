@@ -1,0 +1,21 @@
+Round 4: F2F Interview
+
+In this round, first I was asked to explain the solution for the code given by me in the previous round. I was asked to explain as to why I chose that solution. Then, I was asked to write the solution for a simple pattern printing program. The next few questions were asked from the projects mentioned in my resume. Finally, I was tested in my area of interest. To know how good I was in my area of interests several real-time scenarios was asked.
+
+Overall it was a very good experience.
+
+Interview Round :  The average interview length was 30 minutes. But mine took place for around an hour. First he introduced himself. Then questions began, Questions were : 
+
+1. Tell me about yourself
+
+2. Then describe your project. Questions were then asked on project.
+
+3.. My percentage were low. So why it was low?
+
+4. Where do you see yourself when you retire?
+
+5 what kind of person you are. Describe yourself.
+
+Round 5 Interview(Technical+HR):
+This was the ultimate round. I was very happy that I was able to make it far. On the next day, we were called to a different university. My interviewer was humble. I asked him to sit, he nodded. There were few technical questions. He asked me about my project. I was able to answer all the questions. Then, he asked me the new features in java 8. Some basic questions from DBMS. One of the hr questions was-What is more important for you money or growth?
+
